@@ -1,0 +1,4 @@
+﻿  ShellcodeLoader.cpp
+c:\users\llallum\source\repos\shellcodeloader\shellcodeloader.cpp(50): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'LPVOID'
+  ShellcodeLoader.vcxproj -> C:\Users\llallum\source\repos\ShellcodeLoader\Debug\ShellcodeLoader.exe
+  ShellcodeLoader.vcxproj -> C:\Users\llallum\source\repos\ShellcodeLoader\Debug\ShellcodeLoader.pdb (Full PDB)
